@@ -25,11 +25,11 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/lumen-logistics.git
+   git clone https://github.com/your-username/qualinova-frontend.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd lumen-logistics
+   cd qualinova-frontend
    ```
 3. Install dependencies:
    ```bash
@@ -43,7 +43,7 @@ To get a local copy up and running, follow these steps:
 
 ## Roadmap
 
-The roadmap outlines the future plans for Lumen Logistics:
+The roadmap outlines the future plans:
 
 - **Q1 2025**: 
    - Launch the MVP (Minimum Viable Product) with core certification features.
