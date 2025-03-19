@@ -3,6 +3,7 @@ name: Feature Request
 about: Suggest a new feature or enhancement for the project.
 title: "[FEATURE]"
 labels: enhancement
+issue type: feature
 assignees: ''
 
 ---
@@ -30,9 +31,17 @@ What should the behavior be when this feature is implemented? Provide a detailed
 If you have design mockups, sketches, or screenshots of the proposed feature, please provide them here.
 
 ### Links to related issues (if any)
-- related bug or feature request
-- related pull request
+- Related bug or feature request
+- Related pull request
 
+### Acceptance Criteria
+These are the conditions that must be met for the feature to be considered complete:
+
+1. **Given** [context], **when** [action], **then** [outcome].
+2. [Criteria 2]
+3. [Criteria 3]
+   - Example: The user should be able to interact with the component without errors.
+   - Example: The feature should pass all relevant unit tests.
 ---
 
 ### Extra Notes

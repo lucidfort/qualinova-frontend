@@ -3,6 +3,7 @@ name: Bug Report
 about: Report an issue or bug in the project.
 title: "[BUG]"
 labels: bug
+issue type: bug
 assignees: ''
 
 ---
